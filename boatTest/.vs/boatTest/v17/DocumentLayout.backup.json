@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\boatTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|c:\\users\\sanie\\source\\repos\\boattest\\boattest\\mockdata\\mockboat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|solutionrelative:boattest\\mockdata\\mockboat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|c:\\users\\sanie\\source\\repos\\boattest\\boattest\\pages\\boats\\deleteboat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|solutionrelative:boattest\\pages\\boats\\deleteboat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|c:\\users\\sanie\\source\\repos\\boattest\\boattest\\pages\\boats\\deleteboat.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|solutionrelative:boattest\\pages\\boats\\deleteboat.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|c:\\users\\sanie\\source\\repos\\boattest\\boattest\\pages\\boats\\createboats.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|solutionrelative:boattest\\pages\\boats\\createboats.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|c:\\users\\sanie\\source\\repos\\boattest\\boattest\\pages\\boats\\createboats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|solutionrelative:boattest\\pages\\boats\\createboats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|c:\\users\\sanie\\source\\repos\\boattest\\boattest\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|solutionrelative:boattest\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|c:\\users\\sanie\\source\\repos\\boattest\\boattest\\pages\\members\\deletemember.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|solutionrelative:boattest\\pages\\members\\deletemember.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|c:\\users\\sanie\\source\\repos\\boattest\\boattest\\pages\\members\\editmember.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|solutionrelative:boattest\\pages\\members\\editmember.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|c:\\users\\sanie\\source\\repos\\boattest\\boattest\\pages\\members\\createmembers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|solutionrelative:boattest\\pages\\members\\createmembers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|c:\\users\\sanie\\source\\repos\\boattest\\boattest\\pages\\members\\deletemember.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|solutionrelative:boattest\\pages\\members\\deletemember.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|c:\\users\\sanie\\source\\repos\\boattest\\boattest\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|solutionrelative:boattest\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20318615-C59E-4737-9758-CDFD5E74B92A}|boatTest\\boatTest.csproj|c:\\users\\sanie\\source\\repos\\boattest\\boattest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "MemberRep.cs",
               "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Models\\Repositories\\MemberRep.cs",
               "RelativeDocumentMoniker": "boatTest\\Models\\Repositories\\MemberRep.cs",
@@ -91,7 +111,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "MockBoat.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\MockData\\MockBoat.cs",
+              "RelativeDocumentMoniker": "boatTest\\MockData\\MockBoat.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\MockData\\MockBoat.cs",
+              "RelativeToolTip": "boatTest\\MockData\\MockBoat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T16:12:20.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteBoat.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Boats\\DeleteBoat.cshtml",
+              "RelativeDocumentMoniker": "boatTest\\Pages\\Boats\\DeleteBoat.cshtml",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Boats\\DeleteBoat.cshtml",
+              "RelativeToolTip": "boatTest\\Pages\\Boats\\DeleteBoat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T08:14:35.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteBoat.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Boats\\DeleteBoat.cshtml.cs",
+              "RelativeDocumentMoniker": "boatTest\\Pages\\Boats\\DeleteBoat.cshtml.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Boats\\DeleteBoat.cshtml.cs",
+              "RelativeToolTip": "boatTest\\Pages\\Boats\\DeleteBoat.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T08:14:31.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateBoats.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Boats\\CreateBoats.cshtml.cs",
+              "RelativeDocumentMoniker": "boatTest\\Pages\\Boats\\CreateBoats.cshtml.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Boats\\CreateBoats.cshtml.cs",
+              "RelativeToolTip": "boatTest\\Pages\\Boats\\CreateBoats.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T08:14:22.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateBoats.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Boats\\CreateBoats.cshtml",
+              "RelativeDocumentMoniker": "boatTest\\Pages\\Boats\\CreateBoats.cshtml",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Boats\\CreateBoats.cshtml",
+              "RelativeToolTip": "boatTest\\Pages\\Boats\\CreateBoats.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T08:14:18.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "DeleteMember.cshtml",
               "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Members\\DeleteMember.cshtml",
               "RelativeDocumentMoniker": "boatTest\\Pages\\Members\\DeleteMember.cshtml",
@@ -103,32 +184,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DeleteMember.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Members\\DeleteMember.cshtml.cs",
               "RelativeDocumentMoniker": "boatTest\\Pages\\Members\\DeleteMember.cshtml.cs",
               "ToolTip": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Members\\DeleteMember.cshtml.cs",
               "RelativeToolTip": "boatTest\\Pages\\Members\\DeleteMember.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-15T18:19:55.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "EditMember.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Members\\EditMember.cshtml.cs",
               "RelativeDocumentMoniker": "boatTest\\Pages\\Members\\EditMember.cshtml.cs",
-              "ToolTip": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Members\\EditMember.cshtml.cs*",
-              "RelativeToolTip": "boatTest\\Pages\\Members\\EditMember.cshtml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Members\\EditMember.cshtml.cs",
+              "RelativeToolTip": "boatTest\\Pages\\Members\\EditMember.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAC9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T18:16:46.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T18:16:46.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "EditMember.cshtml",
               "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Members\\EditMember.cshtml",
               "RelativeDocumentMoniker": "boatTest\\Pages\\Members\\EditMember.cshtml",
@@ -140,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "CreateMembers.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Members\\CreateMembers.cshtml.cs",
               "RelativeDocumentMoniker": "boatTest\\Pages\\Members\\CreateMembers.cshtml.cs",
@@ -152,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "CreateMembers.cshtml",
               "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Members\\CreateMembers.cshtml",
               "RelativeDocumentMoniker": "boatTest\\Pages\\Members\\CreateMembers.cshtml",
@@ -170,13 +250,13 @@
               "RelativeDocumentMoniker": "boatTest\\Services\\MemberService.cs",
               "ToolTip": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Services\\MemberService.cs",
               "RelativeToolTip": "boatTest\\Services\\MemberService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-15T17:23:12.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Program.cs",
               "RelativeDocumentMoniker": "boatTest\\Program.cs",
@@ -188,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "GetAllMembers.cshtml",
               "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Members\\GetAllMembers.cshtml",
               "RelativeDocumentMoniker": "boatTest\\Pages\\Members\\GetAllMembers.cshtml",
@@ -200,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "InterfaceMember.cs",
               "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Services\\InterfaceMember.cs",
               "RelativeDocumentMoniker": "boatTest\\Services\\InterfaceMember.cs",
@@ -212,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "GetAllMembers.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Pages\\Members\\GetAllMembers.cshtml.cs",
               "RelativeDocumentMoniker": "boatTest\\Pages\\Members\\GetAllMembers.cshtml.cs",
@@ -224,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Member.cs",
               "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\Models\\Member.cs",
               "RelativeDocumentMoniker": "boatTest\\Models\\Member.cs",
