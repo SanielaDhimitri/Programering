@@ -1,0 +1,14 @@
+C:\Users\sanie\source\repos\KøbCykle\KøbCykle\obj\Debug\net9.0\KøbTel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanie\source\repos\KøbCykle\KøbCykle\obj\Debug\net9.0\KøbTel.AssemblyInfoInputs.cache
+C:\Users\sanie\source\repos\KøbCykle\KøbCykle\obj\Debug\net9.0\KøbTel.AssemblyInfo.cs
+C:\Users\sanie\source\repos\KøbCykle\KøbCykle\obj\Debug\net9.0\KøbTel.csproj.CoreCompileInputs.cache
+C:\Users\sanie\source\repos\KøbCykle\KøbCykle\bin\Debug\net9.0\KøbTel.exe
+C:\Users\sanie\source\repos\KøbCykle\KøbCykle\bin\Debug\net9.0\KøbTel.deps.json
+C:\Users\sanie\source\repos\KøbCykle\KøbCykle\bin\Debug\net9.0\KøbTel.runtimeconfig.json
+C:\Users\sanie\source\repos\KøbCykle\KøbCykle\bin\Debug\net9.0\KøbTel.dll
+C:\Users\sanie\source\repos\KøbCykle\KøbCykle\bin\Debug\net9.0\KøbTel.pdb
+C:\Users\sanie\source\repos\KøbCykle\KøbCykle\obj\Debug\net9.0\KøbTel.dll
+C:\Users\sanie\source\repos\KøbCykle\KøbCykle\obj\Debug\net9.0\refint\KøbTel.dll
+C:\Users\sanie\source\repos\KøbCykle\KøbCykle\obj\Debug\net9.0\KøbTel.pdb
+C:\Users\sanie\source\repos\KøbCykle\KøbCykle\obj\Debug\net9.0\KøbTel.genruntimeconfig.cache
+C:\Users\sanie\source\repos\KøbCykle\KøbCykle\obj\Debug\net9.0\ref\KøbTel.dll

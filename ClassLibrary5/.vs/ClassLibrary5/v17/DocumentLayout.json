@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\ClassLibrary5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2689D20C-3A0D-44D6-8874-B83017E91F16}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sanie\\source\\repos\\classlibrary5\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2689D20C-3A0D-44D6-8874-B83017E91F16}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\sanie\\source\\repos\\ClassLibrary5\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C851CD15-128D-443E-A415-A1DAD4165740}|ClassLibrary5\\ClassLibrary5.csproj|c:\\users\\sanie\\source\\repos\\classlibrary5\\classlibrary5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C851CD15-128D-443E-A415-A1DAD4165740}|ClassLibrary5\\ClassLibrary5.csproj|solutionrelative:classlibrary5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C851CD15-128D-443E-A415-A1DAD4165740}|ClassLibrary5\\ClassLibrary5.csproj|c:\\users\\sanie\\source\\repos\\classlibrary5\\classlibrary5\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C851CD15-128D-443E-A415-A1DAD4165740}|ClassLibrary5\\ClassLibrary5.csproj|solutionrelative:classlibrary5\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C851CD15-128D-443E-A415-A1DAD4165740}|ClassLibrary5\\ClassLibrary5.csproj|c:\\users\\sanie\\source\\repos\\classlibrary5\\classlibrary5\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C851CD15-128D-443E-A415-A1DAD4165740}|ClassLibrary5\\ClassLibrary5.csproj|solutionrelative:classlibrary5\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary5\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary5\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:30:39.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary5\\TextFile1.txt",
+              "RelativeDocumentMoniker": "TextFile1.txt",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary5\\TextFile1.txt",
+              "RelativeToolTip": "TextFile1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-03T12:30:09.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary5\\ClassLibrary5\\Class3.cs",
+              "RelativeDocumentMoniker": "ClassLibrary5\\Class3.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary5\\ClassLibrary5\\Class3.cs",
+              "RelativeToolTip": "ClassLibrary5\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:28:46.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary5\\ClassLibrary5\\Class2.cs",
+              "RelativeDocumentMoniker": "ClassLibrary5\\Class2.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary5\\ClassLibrary5\\Class2.cs",
+              "RelativeToolTip": "ClassLibrary5\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:28:29.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary5\\ClassLibrary5\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary5\\Class1.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary5\\ClassLibrary5\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary5\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:27:49.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

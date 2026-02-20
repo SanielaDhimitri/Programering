@@ -1,0 +1,8 @@
+C:\Users\sanie\source\repos\WebApplication2\WebApplication2\obj\Release\net8.0\win-x86\rpswa.dswa.cache.json
+C:\Users\sanie\source\repos\WebApplication2\WebApplication2\obj\Release\net8.0\win-x86\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanie\source\repos\WebApplication2\WebApplication2\obj\Release\net8.0\win-x86\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\sanie\source\repos\WebApplication2\WebApplication2\obj\Release\net8.0\win-x86\WebApplication2.AssemblyInfo.cs
+C:\Users\sanie\source\repos\WebApplication2\WebApplication2\obj\Release\net8.0\win-x86\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\sanie\source\repos\WebApplication2\WebApplication2\obj\Release\net8.0\win-x86\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanie\source\repos\WebApplication2\WebApplication2\obj\Release\net8.0\win-x86\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\sanie\source\repos\WebApplication2\WebApplication2\obj\Release\net8.0\win-x86\WebApplication2.RazorAssemblyInfo.cs

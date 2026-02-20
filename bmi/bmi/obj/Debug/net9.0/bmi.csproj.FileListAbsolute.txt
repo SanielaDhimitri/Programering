@@ -1,0 +1,14 @@
+C:\Users\sanie\source\repos\bmi\bmi\bin\Debug\net9.0\bmi.exe
+C:\Users\sanie\source\repos\bmi\bmi\bin\Debug\net9.0\bmi.deps.json
+C:\Users\sanie\source\repos\bmi\bmi\bin\Debug\net9.0\bmi.runtimeconfig.json
+C:\Users\sanie\source\repos\bmi\bmi\bin\Debug\net9.0\bmi.dll
+C:\Users\sanie\source\repos\bmi\bmi\bin\Debug\net9.0\bmi.pdb
+C:\Users\sanie\source\repos\bmi\bmi\obj\Debug\net9.0\bmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanie\source\repos\bmi\bmi\obj\Debug\net9.0\bmi.AssemblyInfoInputs.cache
+C:\Users\sanie\source\repos\bmi\bmi\obj\Debug\net9.0\bmi.AssemblyInfo.cs
+C:\Users\sanie\source\repos\bmi\bmi\obj\Debug\net9.0\bmi.csproj.CoreCompileInputs.cache
+C:\Users\sanie\source\repos\bmi\bmi\obj\Debug\net9.0\bmi.dll
+C:\Users\sanie\source\repos\bmi\bmi\obj\Debug\net9.0\refint\bmi.dll
+C:\Users\sanie\source\repos\bmi\bmi\obj\Debug\net9.0\bmi.pdb
+C:\Users\sanie\source\repos\bmi\bmi\obj\Debug\net9.0\bmi.genruntimeconfig.cache
+C:\Users\sanie\source\repos\bmi\bmi\obj\Debug\net9.0\ref\bmi.dll

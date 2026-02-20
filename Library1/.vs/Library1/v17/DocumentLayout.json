@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\Library1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{891F0A40-55D8-4B3D-AD73-4FF5F6B6D3A3}|Library1\\Library1.csproj|c:\\users\\sanie\\source\\repos\\library1\\library1\\b\u00E5d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891F0A40-55D8-4B3D-AD73-4FF5F6B6D3A3}|Library1\\Library1.csproj|solutionrelative:library1\\b\u00E5d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891F0A40-55D8-4B3D-AD73-4FF5F6B6D3A3}|Library1\\Library1.csproj|c:\\users\\sanie\\source\\repos\\library1\\library1\\library1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{891F0A40-55D8-4B3D-AD73-4FF5F6B6D3A3}|Library1\\Library1.csproj|solutionrelative:library1\\library1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891F0A40-55D8-4B3D-AD73-4FF5F6B6D3A3}|Library1\\Library1.csproj|c:\\users\\sanie\\source\\repos\\library1\\library1\\repository\\b\u00E5drep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891F0A40-55D8-4B3D-AD73-4FF5F6B6D3A3}|Library1\\Library1.csproj|solutionrelative:library1\\repository\\b\u00E5drep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D9E4D6-0687-4E3F-84C5-2E2BE2A0725F}|sejlklub\\sejlklub.csproj|c:\\users\\sanie\\source\\repos\\library1\\sejlklub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D9E4D6-0687-4E3F-84C5-2E2BE2A0725F}|sejlklub\\sejlklub.csproj|solutionrelative:sejlklub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891F0A40-55D8-4B3D-AD73-4FF5F6B6D3A3}|Library1\\Library1.csproj|c:\\users\\sanie\\source\\repos\\library1\\library1\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{891F0A40-55D8-4B3D-AD73-4FF5F6B6D3A3}|Library1\\Library1.csproj|solutionrelative:library1\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891F0A40-55D8-4B3D-AD73-4FF5F6B6D3A3}|Library1\\Library1.csproj|c:\\users\\sanie\\source\\repos\\library1\\library1\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891F0A40-55D8-4B3D-AD73-4FF5F6B6D3A3}|Library1\\Library1.csproj|solutionrelative:library1\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "b\u00E5d.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\Library1\\Library1\\b\u00E5d.cs",
+              "RelativeDocumentMoniker": "Library1\\b\u00E5d.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\Library1\\Library1\\b\u00E5d.cs",
+              "RelativeToolTip": "Library1\\b\u00E5d.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:54:10.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "b\u00E5dRep.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\Library1\\Library1\\repository\\b\u00E5dRep.cs",
+              "RelativeDocumentMoniker": "Library1\\repository\\b\u00E5dRep.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\Library1\\Library1\\repository\\b\u00E5dRep.cs",
+              "RelativeToolTip": "Library1\\repository\\b\u00E5dRep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:53:53.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library1",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\Library1\\Library1\\Library1.csproj",
+              "RelativeDocumentMoniker": "Library1\\Library1.csproj",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\Library1\\Library1\\Library1.csproj*",
+              "RelativeToolTip": "Library1\\Library1.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-26T10:48:02.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\Library1\\sejlklub\\Program.cs",
+              "RelativeDocumentMoniker": "sejlklub\\Program.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\Library1\\sejlklub\\Program.cs",
+              "RelativeToolTip": "sejlklub\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:47:52.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControl1.xaml",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\Library1\\Library1\\UserControl1.xaml",
+              "RelativeDocumentMoniker": "Library1\\UserControl1.xaml",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\Library1\\Library1\\UserControl1.xaml",
+              "RelativeToolTip": "Library1\\UserControl1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-26T10:46:46.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\Library1\\Library1\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "Library1\\UserControl1.xaml.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\Library1\\Library1\\UserControl1.xaml.cs",
+              "RelativeToolTip": "Library1\\UserControl1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:46:43.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

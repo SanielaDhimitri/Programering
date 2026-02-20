@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\BMI 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DC674-5C1D-4252-BC4B-EEEDE945E3C2}|BMI 2\\BMI 2.csproj|c:\\users\\sanie\\source\\repos\\bmi 2\\bmi 2\\bmi2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DC674-5C1D-4252-BC4B-EEEDE945E3C2}|BMI 2\\BMI 2.csproj|solutionrelative:bmi 2\\bmi2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3DC674-5C1D-4252-BC4B-EEEDE945E3C2}|BMI 2\\BMI 2.csproj|c:\\users\\sanie\\source\\repos\\bmi 2\\bmi 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3DC674-5C1D-4252-BC4B-EEEDE945E3C2}|BMI 2\\BMI 2.csproj|solutionrelative:bmi 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BMI2.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\BMI 2\\BMI 2\\BMI2.cs",
+              "RelativeDocumentMoniker": "BMI 2\\BMI2.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\BMI 2\\BMI 2\\BMI2.cs*",
+              "RelativeToolTip": "BMI 2\\BMI2.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:56:53.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\BMI 2\\BMI 2\\Program.cs",
+              "RelativeDocumentMoniker": "BMI 2\\Program.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\BMI 2\\BMI 2\\Program.cs",
+              "RelativeToolTip": "BMI 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:55:34.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

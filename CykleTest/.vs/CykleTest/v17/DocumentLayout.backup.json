@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\CykleTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64910393-BA77-4478-8A4C-B14B6CB9D20D}|CykleTest\\CykleTest.csproj|c:\\users\\sanie\\source\\repos\\cykletest\\cykletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64910393-BA77-4478-8A4C-B14B6CB9D20D}|CykleTest\\CykleTest.csproj|solutionrelative:cykletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\CykleTest\\CykleTest\\Program.cs",
+              "RelativeDocumentMoniker": "CykleTest\\Program.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\CykleTest\\CykleTest\\Program.cs",
+              "RelativeToolTip": "CykleTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:08:37.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

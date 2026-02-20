@@ -1,0 +1,7 @@
+C:\Users\sanie\source\repos\boatTest\boatTest\obj\Release\net9.0\PubTmp\Out\boatTest.exe
+C:\Users\sanie\source\repos\boatTest\boatTest\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\sanie\source\repos\boatTest\boatTest\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\Users\sanie\source\repos\boatTest\boatTest\obj\Release\net9.0\PubTmp\Out\boatTest.dll
+C:\Users\sanie\source\repos\boatTest\boatTest\obj\Release\net9.0\PubTmp\Out\boatTest.deps.json
+C:\Users\sanie\source\repos\boatTest\boatTest\obj\Release\net9.0\PubTmp\Out\boatTest.runtimeconfig.json
+C:\Users\sanie\source\repos\boatTest\boatTest\obj\Release\net9.0\PubTmp\Out\boatTest.pdb

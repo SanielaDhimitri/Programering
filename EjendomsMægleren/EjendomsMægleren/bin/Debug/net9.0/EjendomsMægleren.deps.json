@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EjendomsMægleren/1.0.0": {
+        "runtime": {
+          "EjendomsMægleren.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjendomsMægleren/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\ItemRazorV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{919C72BA-6CAF-49C2-AF35-4DB409FFBC6B}|ItemRazorV1\\ItemRazorV1.csproj|c:\\users\\sanie\\source\\repos\\itemrazorv1\\itemrazorv1\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919C72BA-6CAF-49C2-AF35-4DB409FFBC6B}|ItemRazorV1\\ItemRazorV1.csproj|solutionrelative:itemrazorv1\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919C72BA-6CAF-49C2-AF35-4DB409FFBC6B}|ItemRazorV1\\ItemRazorV1.csproj|c:\\users\\sanie\\source\\repos\\itemrazorv1\\itemrazorv1\\pages\\item\\getallitemsmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{919C72BA-6CAF-49C2-AF35-4DB409FFBC6B}|ItemRazorV1\\ItemRazorV1.csproj|solutionrelative:itemrazorv1\\pages\\item\\getallitemsmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919C72BA-6CAF-49C2-AF35-4DB409FFBC6B}|ItemRazorV1\\ItemRazorV1.csproj|c:\\users\\sanie\\source\\repos\\itemrazorv1\\itemrazorv1\\pages\\item\\getallitemsmodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919C72BA-6CAF-49C2-AF35-4DB409FFBC6B}|ItemRazorV1\\ItemRazorV1.csproj|solutionrelative:itemrazorv1\\pages\\item\\getallitemsmodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919C72BA-6CAF-49C2-AF35-4DB409FFBC6B}|ItemRazorV1\\ItemRazorV1.csproj|c:\\users\\sanie\\source\\repos\\itemrazorv1\\itemrazorv1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{919C72BA-6CAF-49C2-AF35-4DB409FFBC6B}|ItemRazorV1\\ItemRazorV1.csproj|solutionrelative:itemrazorv1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllItemsModel.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ItemRazorV1\\ItemRazorV1\\Pages\\Item\\GetAllItemsModel.cshtml.cs",
+              "RelativeDocumentMoniker": "ItemRazorV1\\Pages\\Item\\GetAllItemsModel.cshtml.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ItemRazorV1\\ItemRazorV1\\Pages\\Item\\GetAllItemsModel.cshtml.cs",
+              "RelativeToolTip": "ItemRazorV1\\Pages\\Item\\GetAllItemsModel.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:14:38.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllItemsModel.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ItemRazorV1\\ItemRazorV1\\Pages\\Item\\GetAllItemsModel.cshtml",
+              "RelativeDocumentMoniker": "ItemRazorV1\\Pages\\Item\\GetAllItemsModel.cshtml",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ItemRazorV1\\ItemRazorV1\\Pages\\Item\\GetAllItemsModel.cshtml",
+              "RelativeToolTip": "ItemRazorV1\\Pages\\Item\\GetAllItemsModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-27T17:13:17.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ItemRazorV1\\ItemRazorV1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ItemRazorV1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ItemRazorV1\\ItemRazorV1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ItemRazorV1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-27T17:24:12.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ItemRazorV1\\ItemRazorV1\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "ItemRazorV1\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ItemRazorV1\\ItemRazorV1\\Models\\Item.cs",
+              "RelativeToolTip": "ItemRazorV1\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:10:01.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

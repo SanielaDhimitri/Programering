@@ -1,0 +1,14 @@
+C:\Users\sanie\source\repos\opgave\opgave\bin\Debug\net9.0\opgave.exe
+C:\Users\sanie\source\repos\opgave\opgave\bin\Debug\net9.0\opgave.deps.json
+C:\Users\sanie\source\repos\opgave\opgave\bin\Debug\net9.0\opgave.runtimeconfig.json
+C:\Users\sanie\source\repos\opgave\opgave\bin\Debug\net9.0\opgave.dll
+C:\Users\sanie\source\repos\opgave\opgave\bin\Debug\net9.0\opgave.pdb
+C:\Users\sanie\source\repos\opgave\opgave\obj\Debug\net9.0\opgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanie\source\repos\opgave\opgave\obj\Debug\net9.0\opgave.AssemblyInfoInputs.cache
+C:\Users\sanie\source\repos\opgave\opgave\obj\Debug\net9.0\opgave.AssemblyInfo.cs
+C:\Users\sanie\source\repos\opgave\opgave\obj\Debug\net9.0\opgave.csproj.CoreCompileInputs.cache
+C:\Users\sanie\source\repos\opgave\opgave\obj\Debug\net9.0\opgave.dll
+C:\Users\sanie\source\repos\opgave\opgave\obj\Debug\net9.0\refint\opgave.dll
+C:\Users\sanie\source\repos\opgave\opgave\obj\Debug\net9.0\opgave.pdb
+C:\Users\sanie\source\repos\opgave\opgave\obj\Debug\net9.0\opgave.genruntimeconfig.cache
+C:\Users\sanie\source\repos\opgave\opgave\obj\Debug\net9.0\ref\opgave.dll

@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\Hiller\u00F8d sejlklub 1234\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Vedligehold.Html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Om klubben.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Medlem.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\LoogInd.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Booking.Html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Anmeldelser.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\AktiveTur.Html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vedligehold.Html",
+              "DocumentMoniker": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Vedligehold.Html",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Vedligehold.Html",
+              "ToolTip": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Vedligehold.Html",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Vedligehold.Html",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-19T11:19:38.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Om klubben.html",
+              "DocumentMoniker": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Om klubben.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Om klubben.html",
+              "ToolTip": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Om klubben.html",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Om klubben.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-19T11:14:17.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Medlem.html",
+              "DocumentMoniker": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Medlem.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Medlem.html",
+              "ToolTip": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Medlem.html",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Medlem.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-19T11:06:59.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoogInd.html",
+              "DocumentMoniker": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\LoogInd.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\LoogInd.html",
+              "ToolTip": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\LoogInd.html",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\LoogInd.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-19T11:06:46.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Index.html",
+              "ToolTip": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Index.html",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Index.html",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-19T10:58:54.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Booking.Html",
+              "DocumentMoniker": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Booking.Html",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Booking.Html",
+              "ToolTip": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Booking.Html",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Booking.Html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-19T10:56:51.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Anmeldelser.html",
+              "DocumentMoniker": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Anmeldelser.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Anmeldelser.html",
+              "ToolTip": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Anmeldelser.html",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\Anmeldelser.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-19T10:55:46.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AktiveTur.Html",
+              "DocumentMoniker": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\AktiveTur.Html",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\AktiveTur.Html",
+              "ToolTip": "C:\\Users\\sanie\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\AktiveTur.Html",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documents\\Systemudvikling\\Sem_1\\HTML PLUK\\Hiller\u00F8d sejlklub 1234\\AktiveTur.Html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-19T10:55:24.189Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

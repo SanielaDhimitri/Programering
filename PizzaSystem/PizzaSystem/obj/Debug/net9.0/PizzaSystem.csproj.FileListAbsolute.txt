@@ -1,0 +1,14 @@
+C:\Users\sanie\source\repos\PizzaSystem\PizzaSystem\obj\Debug\net9.0\PizzaSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanie\source\repos\PizzaSystem\PizzaSystem\obj\Debug\net9.0\PizzaSystem.AssemblyInfoInputs.cache
+C:\Users\sanie\source\repos\PizzaSystem\PizzaSystem\obj\Debug\net9.0\PizzaSystem.AssemblyInfo.cs
+C:\Users\sanie\source\repos\PizzaSystem\PizzaSystem\obj\Debug\net9.0\PizzaSystem.csproj.CoreCompileInputs.cache
+C:\Users\sanie\source\repos\PizzaSystem\PizzaSystem\bin\Debug\net9.0\PizzaSystem.exe
+C:\Users\sanie\source\repos\PizzaSystem\PizzaSystem\bin\Debug\net9.0\PizzaSystem.deps.json
+C:\Users\sanie\source\repos\PizzaSystem\PizzaSystem\bin\Debug\net9.0\PizzaSystem.runtimeconfig.json
+C:\Users\sanie\source\repos\PizzaSystem\PizzaSystem\bin\Debug\net9.0\PizzaSystem.dll
+C:\Users\sanie\source\repos\PizzaSystem\PizzaSystem\bin\Debug\net9.0\PizzaSystem.pdb
+C:\Users\sanie\source\repos\PizzaSystem\PizzaSystem\obj\Debug\net9.0\PizzaSystem.dll
+C:\Users\sanie\source\repos\PizzaSystem\PizzaSystem\obj\Debug\net9.0\refint\PizzaSystem.dll
+C:\Users\sanie\source\repos\PizzaSystem\PizzaSystem\obj\Debug\net9.0\PizzaSystem.pdb
+C:\Users\sanie\source\repos\PizzaSystem\PizzaSystem\obj\Debug\net9.0\PizzaSystem.genruntimeconfig.cache
+C:\Users\sanie\source\repos\PizzaSystem\PizzaSystem\obj\Debug\net9.0\ref\PizzaSystem.dll

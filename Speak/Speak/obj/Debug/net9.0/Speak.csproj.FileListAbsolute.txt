@@ -1,0 +1,14 @@
+C:\Users\sanie\source\repos\Speak\Speak\obj\Debug\net9.0\Speak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanie\source\repos\Speak\Speak\obj\Debug\net9.0\Speak.AssemblyInfoInputs.cache
+C:\Users\sanie\source\repos\Speak\Speak\obj\Debug\net9.0\Speak.AssemblyInfo.cs
+C:\Users\sanie\source\repos\Speak\Speak\obj\Debug\net9.0\Speak.csproj.CoreCompileInputs.cache
+C:\Users\sanie\source\repos\Speak\Speak\bin\Debug\net9.0\Speak.exe
+C:\Users\sanie\source\repos\Speak\Speak\bin\Debug\net9.0\Speak.deps.json
+C:\Users\sanie\source\repos\Speak\Speak\bin\Debug\net9.0\Speak.runtimeconfig.json
+C:\Users\sanie\source\repos\Speak\Speak\bin\Debug\net9.0\Speak.dll
+C:\Users\sanie\source\repos\Speak\Speak\bin\Debug\net9.0\Speak.pdb
+C:\Users\sanie\source\repos\Speak\Speak\obj\Debug\net9.0\Speak.dll
+C:\Users\sanie\source\repos\Speak\Speak\obj\Debug\net9.0\refint\Speak.dll
+C:\Users\sanie\source\repos\Speak\Speak\obj\Debug\net9.0\Speak.pdb
+C:\Users\sanie\source\repos\Speak\Speak\obj\Debug\net9.0\Speak.genruntimeconfig.cache
+C:\Users\sanie\source\repos\Speak\Speak\obj\Debug\net9.0\ref\Speak.dll

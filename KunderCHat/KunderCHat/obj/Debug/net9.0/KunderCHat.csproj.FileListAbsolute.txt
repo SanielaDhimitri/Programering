@@ -1,0 +1,14 @@
+C:\Users\sanie\source\repos\KunderCHat\KunderCHat\obj\Debug\net9.0\KunderCHat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanie\source\repos\KunderCHat\KunderCHat\obj\Debug\net9.0\KunderCHat.AssemblyInfoInputs.cache
+C:\Users\sanie\source\repos\KunderCHat\KunderCHat\obj\Debug\net9.0\KunderCHat.AssemblyInfo.cs
+C:\Users\sanie\source\repos\KunderCHat\KunderCHat\obj\Debug\net9.0\KunderCHat.csproj.CoreCompileInputs.cache
+C:\Users\sanie\source\repos\KunderCHat\KunderCHat\bin\Debug\net9.0\KunderCHat.exe
+C:\Users\sanie\source\repos\KunderCHat\KunderCHat\bin\Debug\net9.0\KunderCHat.deps.json
+C:\Users\sanie\source\repos\KunderCHat\KunderCHat\bin\Debug\net9.0\KunderCHat.runtimeconfig.json
+C:\Users\sanie\source\repos\KunderCHat\KunderCHat\bin\Debug\net9.0\KunderCHat.dll
+C:\Users\sanie\source\repos\KunderCHat\KunderCHat\bin\Debug\net9.0\KunderCHat.pdb
+C:\Users\sanie\source\repos\KunderCHat\KunderCHat\obj\Debug\net9.0\KunderCHat.dll
+C:\Users\sanie\source\repos\KunderCHat\KunderCHat\obj\Debug\net9.0\refint\KunderCHat.dll
+C:\Users\sanie\source\repos\KunderCHat\KunderCHat\obj\Debug\net9.0\KunderCHat.pdb
+C:\Users\sanie\source\repos\KunderCHat\KunderCHat\obj\Debug\net9.0\KunderCHat.genruntimeconfig.cache
+C:\Users\sanie\source\repos\KunderCHat\KunderCHat\obj\Debug\net9.0\ref\KunderCHat.dll

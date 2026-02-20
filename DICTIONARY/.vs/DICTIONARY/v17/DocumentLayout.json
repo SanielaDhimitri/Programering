@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\DICTIONARY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4141C26-AB9B-459B-8A4B-0526ED05138A}|DICTIONARY\\DICTIONARY.csproj|c:\\users\\sanie\\source\\repos\\dictionary\\dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4141C26-AB9B-459B-8A4B-0526ED05138A}|DICTIONARY\\DICTIONARY.csproj|solutionrelative:dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4141C26-AB9B-459B-8A4B-0526ED05138A}|DICTIONARY\\DICTIONARY.csproj|c:\\users\\sanie\\source\\repos\\dictionary\\dictionary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4141C26-AB9B-459B-8A4B-0526ED05138A}|DICTIONARY\\DICTIONARY.csproj|solutionrelative:dictionary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\DICTIONARY\\DICTIONARY\\Class1.cs",
+              "RelativeDocumentMoniker": "DICTIONARY\\Class1.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\DICTIONARY\\DICTIONARY\\Class1.cs",
+              "RelativeToolTip": "DICTIONARY\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T20:22:04.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\DICTIONARY\\DICTIONARY\\Program.cs",
+              "RelativeDocumentMoniker": "DICTIONARY\\Program.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\DICTIONARY\\DICTIONARY\\Program.cs",
+              "RelativeToolTip": "DICTIONARY\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T20:19:33.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

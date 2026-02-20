@@ -1,0 +1,91 @@
+﻿@page
+@using boatTest.Models
+@model GetAllBoatsModel
+@{
+}
+
+<h1>Boat</h1>
+<table class="table table-striped">       @* //får tabellen skiftevis farvede rækker=hvid-grå-hvid-grå: *@
+    <thead>
+        <tr>                               @* starter rækken *@
+            <th>BoatId</th>                @* overskrifter i en tabel *@
+            <th>Name</th>
+            <th>Type</th>
+            <th>Year</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model._boats!= null)
+        {
+        @foreach (Boat boat in Model._boats)                           @*  //foreach do të thotë:  “për çdo boat në listë, krijo një rresht (<tr>) në tabelë” *@
+        {
+            <tr>
+                <td>@boat.BoatId</td>                        @*  // <td> = table data përdoret për të dhënat brenda një tabele *@
+                <td>@boat.Name</td>
+                <td>@boat.Type</td>
+                <td>@boat.Year</td>
+                <td>@boat.Price</td>
+
+                <td class="actions">
+                    <div class="row g-2">
+                        <div class="col-6">
+                            <a asp-page="/Boats/EditBoat"
+                               asp-route-id="@boat.BoatId"
+                               class="btn btn-warning w-100 text-center">
+                                Edit
+                            </a>
+                        </div>
+
+                        <div class="col-6">
+                            <a asp-page="/Boats/DeleteBoat"
+                               asp-route-id="@boat.BoatId"
+                               class="btn btn-danger w-100 text-center">
+                                Delete
+                            </a>
+                        </div>
+                    </div>
+                </td>
+                
+            </tr>
+        }
+        }
+    </tbody>
+</table>
+
+<div class="row mt-3">
+    <div class="col-12 col-sm-6 mb-2">
+        <a asp-page="/Boats/CreateBoats"
+           class="btn btn-primary w-100">
+            Create New Boat
+        </a>
+    </div>
+
+    
+</div>
+
+
+
+<!-- Search by price -->
+<form method="post" class="form-inline">
+    <input asp-for="SearchString" class="form-control mr-1" placeholder="Enter search term" />
+    <button type="submit" asp-page-handler="SearchBoat" value="Search" class="btn btn-primary mt-2"> Search </button>
+</form>
+
+<form method="post" class="form-inline">               @* //form method=sepse kemi input qe dergohet ne server permes metodes POST. *@
+    <div class="input-group my-3">
+
+        <div class="input-group-prepend">   @* //input-group-prepend → përdoret për të shtuar një element para *@
+            <span class="input-group-text">Min</span>
+        </div>
+        <input asp-for="MinPrice" class="form-control mr-1" />
+
+        <div class="input-group-prepend">
+            <span class="input-group-text">Max</span>
+
+
+        </div>
+        <input asp-for="MaxPrice" class="form-control mr-1" />
+        <button type="submit" asp-page-handler="SearchPrice" value="Filter" class="btn btn-primary">Filter</button>  @* // PriceFilter(ndodhet ne IItemService) eshte metoda qe ben filtrimin e itemeve ne baze te cmimit, dhe kerkohet te kete dy parametra, nje per cmimin maksimal dhe nje per cmimin minimal (opsional)) *@
+    </div>
+</form>

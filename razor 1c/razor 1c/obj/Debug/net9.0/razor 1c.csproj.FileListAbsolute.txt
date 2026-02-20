@@ -1,0 +1,97 @@
+C:\Users\sanie\source\repos\razor 1c\razor 1c\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\sanie\source\repos\razor 1c\razor 1c\bin\Debug\net9.0\appsettings.json
+C:\Users\sanie\source\repos\razor 1c\razor 1c\bin\Debug\net9.0\razor 1c.staticwebassets.runtime.json
+C:\Users\sanie\source\repos\razor 1c\razor 1c\bin\Debug\net9.0\razor 1c.staticwebassets.endpoints.json
+C:\Users\sanie\source\repos\razor 1c\razor 1c\bin\Debug\net9.0\razor 1c.exe
+C:\Users\sanie\source\repos\razor 1c\razor 1c\bin\Debug\net9.0\razor 1c.deps.json
+C:\Users\sanie\source\repos\razor 1c\razor 1c\bin\Debug\net9.0\razor 1c.runtimeconfig.json
+C:\Users\sanie\source\repos\razor 1c\razor 1c\bin\Debug\net9.0\razor 1c.dll
+C:\Users\sanie\source\repos\razor 1c\razor 1c\bin\Debug\net9.0\razor 1c.pdb
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\razor 1c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\razor 1c.AssemblyInfoInputs.cache
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\razor 1c.AssemblyInfo.cs
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\razor 1c.csproj.CoreCompileInputs.cache
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\razor 1c.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\razor 1c.RazorAssemblyInfo.cache
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\razor 1c.RazorAssemblyInfo.cs
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\scopedcss\bundle\razor 1c.styles.css
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\scopedcss\projectbundle\razor 1c.bundle.scp.css
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\9q3yc4i0hz-b9sayid5wm.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\onu1vipejo-61n19gt1b8.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\ref5a795ia-xtxxf3hu2r.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\7wicugtu1k-bqjiyaj88i.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\8tlu2k8vrm-c2jlpeoesf.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\r7b7oys6b2-erw9l3u2r3.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\1922rj0tpd-aexeepp0ev.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\zg7tmc9z4a-d7shbmvgxk.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\ozttzqsuvw-ausgxo2sd3.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\o1rmw9hkre-k8d9w2qqmf.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\wopxzai2kx-cosvhxvwiu.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\jt4zlvk5z5-ub07r2b239.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\8hqa0e8a8f-fvhpjtyr6v.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\ifuaj0t0es-b7pk76d08c.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\j3sj0sreyk-fsbi9cje9m.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\w1z9junkj8-rzd6atqjts.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\4u075fcdns-ee0r1s7dh0.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\htwhtr4fa9-dxx9fxp4il.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\euig0x8x8m-jd9uben2k1.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\1n97uwa0yz-khv3u5hwcm.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\kqpj3mkj60-r4e9w2rdcm.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\pjhnuy3410-lcd1t2u6c8.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\v0kr43yx6l-c2oey78nd0.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\5qvx9kz33w-tdbxkamptv.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\kw6fwvbwtw-j5mq2jizvt.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\7jeuo9nwqk-06098lyss8.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\k6ppvpshcm-nvvlpmu67g.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\aboa0osw3u-s35ty4nyc5.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\j5zw5mjmfr-pj5nd1wqec.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\u639zni597-46ein0sx1k.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\hrka8p1tbq-v0zj4ognzu.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\w2vansvrrq-37tfw0ft22.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\onkc1ieb3g-hrwsygsryq.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\bbjn58z9it-pk9g2wxc8p.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\vhsvfr5bhc-ft3s53vfgj.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\oq3f4q871n-6cfz1n2cew.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\bfzpuybhja-6pdc2jztkx.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\cxxc80tvyf-493y06b0oq.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\52g9jrzg49-iovd86k7lj.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\x6n4azd2wc-vr1egmr9el.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\n3g66vt4jr-kbrnm935zg.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\cwq9tk1hs7-jj8uyg4cgr.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\1w8hp3bhix-y7v9cxd14o.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\rdef8k73ed-notf2xhcfb.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\i7sh8g3gkk-h1s4sie4z3.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\7pshrn6emb-63fj8s7r0e.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\vrkakad5qu-0j3bgjxly4.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\ybgu7vpjli-47otxtyo56.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\hz2cra6n7f-4v8eqarkd7.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\9899vatt36-356vix0kms.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\oytz6csww3-83jwlth58m.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\mmv08za0j9-mrlpezrjn3.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\wko3h1p4l3-lzl9nlhx6b.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\lianvr141r-ag7o75518u.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\jntagzzoct-x0q3zqp4vz.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\t2wbdf4y9w-0i3buxo5is.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\xwxudnb7ij-o1o13a6vjx.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\zq1frw96km-ttgo8qnofa.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\a69x2vl2zg-2z0ns9nrw6.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\wixkvs3gg1-muycvpuwrr.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\mhqzuw2vgr-87fc7y1x7t.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\08dnyu8gtf-mlv21k5csn.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\k6sroynod1-b0tynm3bam.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\compressed\qrq3t0xme2-b0tynm3bam.gz
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\razor 1c.dll
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\refint\razor 1c.dll
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\razor 1c.pdb
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\razor 1c.genruntimeconfig.cache
+C:\Users\sanie\source\repos\razor 1c\razor 1c\obj\Debug\net9.0\ref\razor 1c.dll

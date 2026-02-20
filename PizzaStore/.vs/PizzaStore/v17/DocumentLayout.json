@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|c:\\users\\sanie\\source\\repos\\pizzastore\\pizzastore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|c:\\users\\sanie\\source\\repos\\pizzastore\\pizzastore\\menudialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\menudialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|c:\\users\\sanie\\source\\repos\\pizzastore\\pizzastore\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|c:\\users\\sanie\\source\\repos\\pizzastore\\pizzastore\\orderfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\orderfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|c:\\users\\sanie\\source\\repos\\pizzastore\\pizzastore\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|c:\\users\\sanie\\source\\repos\\pizzastore\\pizzastore\\pizzamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\pizzamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|c:\\users\\sanie\\source\\repos\\pizzastore\\pizzastore\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|c:\\users\\sanie\\source\\repos\\pizzastore\\pizzastore\\customerfile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\customerfile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|c:\\users\\sanie\\source\\repos\\pizzastore\\pizzastore\\costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E176BCB9-EC15-4D99-9463-322158429211}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\Store.cs",
+              "RelativeDocumentMoniker": "PizzaStore\\Store.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\Store.cs",
+              "RelativeToolTip": "PizzaStore\\Store.cs",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAcwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T19:30:05.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderFile.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\OrderFile.cs",
+              "RelativeDocumentMoniker": "PizzaStore\\OrderFile.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\OrderFile.cs",
+              "RelativeToolTip": "PizzaStore\\OrderFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:05:29.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaStore\\Program.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\Program.cs",
+              "RelativeToolTip": "PizzaStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T19:25:24.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuDialog.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\MenuDialog.cs",
+              "RelativeDocumentMoniker": "PizzaStore\\MenuDialog.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\MenuDialog.cs",
+              "RelativeToolTip": "PizzaStore\\MenuDialog.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:20:52.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerFile .cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\CustomerFile .cs",
+              "RelativeDocumentMoniker": "PizzaStore\\CustomerFile .cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\CustomerFile .cs",
+              "RelativeToolTip": "PizzaStore\\CustomerFile .cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwEwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:32:25.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\Order.cs",
+              "RelativeDocumentMoniker": "PizzaStore\\Order.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\Order.cs",
+              "RelativeToolTip": "PizzaStore\\Order.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwCMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T19:29:37.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\Pizza.cs",
+              "RelativeDocumentMoniker": "PizzaStore\\Pizza.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\Pizza.cs",
+              "RelativeToolTip": "PizzaStore\\Pizza.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T19:28:40.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Costumer.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\Costumer.cs",
+              "RelativeDocumentMoniker": "PizzaStore\\Costumer.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\Costumer.cs",
+              "RelativeToolTip": "PizzaStore\\Costumer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T19:29:07.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzaMenu.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\PizzaMenu.cs",
+              "RelativeDocumentMoniker": "PizzaStore\\PizzaMenu.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaStore\\PizzaStore\\PizzaMenu.cs",
+              "RelativeToolTip": "PizzaStore\\PizzaMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:41:04.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

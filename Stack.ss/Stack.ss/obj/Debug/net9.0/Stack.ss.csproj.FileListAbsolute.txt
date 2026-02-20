@@ -1,0 +1,14 @@
+C:\Users\sanie\source\repos\Stack.ss\Stack.ss\bin\Debug\net9.0\Stack.ss.exe
+C:\Users\sanie\source\repos\Stack.ss\Stack.ss\bin\Debug\net9.0\Stack.ss.deps.json
+C:\Users\sanie\source\repos\Stack.ss\Stack.ss\bin\Debug\net9.0\Stack.ss.runtimeconfig.json
+C:\Users\sanie\source\repos\Stack.ss\Stack.ss\bin\Debug\net9.0\Stack.ss.dll
+C:\Users\sanie\source\repos\Stack.ss\Stack.ss\bin\Debug\net9.0\Stack.ss.pdb
+C:\Users\sanie\source\repos\Stack.ss\Stack.ss\obj\Debug\net9.0\Stack.ss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanie\source\repos\Stack.ss\Stack.ss\obj\Debug\net9.0\Stack.ss.AssemblyInfoInputs.cache
+C:\Users\sanie\source\repos\Stack.ss\Stack.ss\obj\Debug\net9.0\Stack.ss.AssemblyInfo.cs
+C:\Users\sanie\source\repos\Stack.ss\Stack.ss\obj\Debug\net9.0\Stack.ss.csproj.CoreCompileInputs.cache
+C:\Users\sanie\source\repos\Stack.ss\Stack.ss\obj\Debug\net9.0\Stack.ss.dll
+C:\Users\sanie\source\repos\Stack.ss\Stack.ss\obj\Debug\net9.0\refint\Stack.ss.dll
+C:\Users\sanie\source\repos\Stack.ss\Stack.ss\obj\Debug\net9.0\Stack.ss.pdb
+C:\Users\sanie\source\repos\Stack.ss\Stack.ss\obj\Debug\net9.0\Stack.ss.genruntimeconfig.cache
+C:\Users\sanie\source\repos\Stack.ss\Stack.ss\obj\Debug\net9.0\ref\Stack.ss.dll

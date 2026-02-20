@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\Class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|c:\\users\\sanie\\source\\repos\\classlibrary2\\classlibrary2\\visualizer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|solutionrelative:classlibrary2\\visualizer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|c:\\users\\sanie\\source\\repos\\classlibrary2\\classlibrary2\\classlibrary2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|solutionrelative:classlibrary2\\classlibrary2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|c:\\users\\sanie\\source\\repos\\classlibrary2\\classlibrary2\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|solutionrelative:classlibrary2\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|c:\\users\\sanie\\source\\repos\\classlibrary2\\classlibrary2\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|solutionrelative:classlibrary2\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\Class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\Class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|c:\\users\\sanie\\source\\repos\\classlibrary2\\classlibrary2\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|solutionrelative:classlibrary2\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|c:\\users\\sanie\\source\\repos\\classlibrary2\\classlibrary2\\newfolder\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|solutionrelative:classlibrary2\\newfolder\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|c:\\users\\sanie\\source\\repos\\classlibrary2\\classlibrary2\\newfolder\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|solutionrelative:classlibrary2\\newfolder\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|c:\\users\\sanie\\source\\repos\\classlibrary2\\classlibrary2\\newfolder\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|solutionrelative:classlibrary2\\newfolder\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|c:\\users\\sanie\\source\\repos\\classlibrary2\\classlibrary2\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|solutionrelative:classlibrary2\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|c:\\users\\sanie\\source\\repos\\classlibrary2\\classlibrary2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F89868-D093-42EC-9F6B-2CDB340AF024}|ClassLibrary2\\ClassLibrary2.csproj|solutionrelative:classlibrary2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\Class4.cs",
+              "RelativeDocumentMoniker": "Class4.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\Class4.cs",
+              "RelativeToolTip": "Class4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:26:42.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Visualizer1.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\Visualizer1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\Visualizer1.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\Visualizer1.cs",
+              "RelativeToolTip": "ClassLibrary2\\Visualizer1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:26:13.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodeFile1.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\CodeFile1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\CodeFile1.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\CodeFile1.cs",
+              "RelativeToolTip": "ClassLibrary2\\CodeFile1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:24:35.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\Class3.cs",
+              "RelativeDocumentMoniker": "Class3.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\Class3.cs",
+              "RelativeToolTip": "Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:24:05.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\Class2.cs",
+              "RelativeDocumentMoniker": "Class2.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\Class2.cs",
+              "RelativeToolTip": "Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:23:34.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\Class4.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\Class4.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\Class4.cs",
+              "RelativeToolTip": "ClassLibrary2\\Class4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:23:03.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassLibrary2",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\ClassLibrary2.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary2\\ClassLibrary2.csproj",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\ClassLibrary2.csproj*",
+              "RelativeToolTip": "ClassLibrary2\\ClassLibrary2.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-26T10:14:45.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\Class3.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\Class3.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\Class3.cs",
+              "RelativeToolTip": "ClassLibrary2\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:19:52.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\NewFolder\\Class3.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\NewFolder\\Class3.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\NewFolder\\Class3.cs",
+              "RelativeToolTip": "ClassLibrary2\\NewFolder\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:19:33.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\NewFolder\\Class2.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\NewFolder\\Class2.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\NewFolder\\Class2.cs",
+              "RelativeToolTip": "ClassLibrary2\\NewFolder\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:19:22.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\NewFolder\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\NewFolder\\Class1.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\NewFolder\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary2\\NewFolder\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:18:56.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\Class2.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\Class2.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\Class2.cs",
+              "RelativeToolTip": "ClassLibrary2\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:18:17.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\Class1.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary2\\ClassLibrary2\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary2\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:13:10.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

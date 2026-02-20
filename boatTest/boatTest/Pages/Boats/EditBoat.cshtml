@@ -1,0 +1,50 @@
+﻿@page "{id:int}"
+@model boatTest.Pages.Boats.EditBoatModel
+@{
+    ViewData["Title"] = "EditBoat";
+}
+<h1>EditBoat</h1>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <input type="hidden" asp-for="Boat.BoatId" />
+            <div class="form-group">
+                <label asp-for="Boat.Name" class="control-lable"></label>
+                <input asp-for="Boat.Name" class="form-control bg-light" />
+                <span asp-validation-for="Boat.Name" class="text-danger"></span>
+              
+            </div>
+            <div class="form-group">
+                <label asp-for="Boat.Type" class="control-lable"></label>
+                <input asp-for="Boat.Type" class="form-control bg-light" />
+                <span asp-validation-for="Boat.Type" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Boat.Year" class="control-lable"></label>
+                <input asp-for="Boat.Year" class="form-control bg-light" />
+                <span asp-validation-for="Boat.Year" class="text-danger"></span>
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="Boat.Price" class="control-lable"></label>
+                <input asp-for="Boat.Price" class="form-control bg-light" />
+                <span asp-validation-for="Boat.Price" class="text-danger"></span>
+
+            </div>
+            <div class="row mt-3">
+                <div class="col-12 col-sm-6 mb-2">
+            <button type="submit" class="btn btn-success w-100  ">Save  </button>
+            </div>
+                <div class="col-12 col-sm-6 mb-2">
+            <a asp-page="/Boats/GetAllBoats" 
+            class="btn btn-primary w-100">
+            Back to List</a>
+
+                </div>
+                </div>
+        </form>
+    </div>
+</div>
+
+
+

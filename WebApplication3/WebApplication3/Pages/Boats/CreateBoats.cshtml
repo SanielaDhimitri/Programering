@@ -1,0 +1,20 @@
+﻿@page
+@model WebApplication3.Pages.Boats.CreateBoatsModel
+@{
+}
+<h1>Create a New Boat</h1>
+<form method="post">
+    <div class="formgroup">
+        <label asp-for="Boat.BoatId">BoatId:</label>
+        <input asp-for="Boat.BoatId" class="form-control"/>
+    </div>
+    <div class="formgroup">
+        <label asp-for="Boat.BoatName">Name:</label>
+        <input asp-for="Boat.BoatName" class="form-control" />
+    </div>
+    <div class="formgroup">
+        <label asp-for="Boat.Type">Type:</label>
+        <input asp-for="Boat.Type" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Create Boat</button>
+</form>

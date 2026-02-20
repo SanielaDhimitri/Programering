@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MOVrbm8fELg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sanie\\source\\repos\\boatTest\\boatTest\\boatTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanie\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\9.0.9\\microsoft.netcore.app.runtime.win-x86.9.0.9.nupkg.sha512",
+    "C:\\Users\\sanie\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\9.0.9\\microsoft.windowsdesktop.app.runtime.win-x86.9.0.9.nupkg.sha512",
+    "C:\\Users\\sanie\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\9.0.9\\microsoft.aspnetcore.app.runtime.win-x86.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

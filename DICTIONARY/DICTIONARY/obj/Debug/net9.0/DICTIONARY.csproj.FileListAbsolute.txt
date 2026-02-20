@@ -1,0 +1,14 @@
+C:\Users\sanie\source\repos\DICTIONARY\DICTIONARY\bin\Debug\net9.0\DICTIONARY.exe
+C:\Users\sanie\source\repos\DICTIONARY\DICTIONARY\bin\Debug\net9.0\DICTIONARY.deps.json
+C:\Users\sanie\source\repos\DICTIONARY\DICTIONARY\bin\Debug\net9.0\DICTIONARY.runtimeconfig.json
+C:\Users\sanie\source\repos\DICTIONARY\DICTIONARY\bin\Debug\net9.0\DICTIONARY.dll
+C:\Users\sanie\source\repos\DICTIONARY\DICTIONARY\bin\Debug\net9.0\DICTIONARY.pdb
+C:\Users\sanie\source\repos\DICTIONARY\DICTIONARY\obj\Debug\net9.0\DICTIONARY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanie\source\repos\DICTIONARY\DICTIONARY\obj\Debug\net9.0\DICTIONARY.AssemblyInfoInputs.cache
+C:\Users\sanie\source\repos\DICTIONARY\DICTIONARY\obj\Debug\net9.0\DICTIONARY.AssemblyInfo.cs
+C:\Users\sanie\source\repos\DICTIONARY\DICTIONARY\obj\Debug\net9.0\DICTIONARY.csproj.CoreCompileInputs.cache
+C:\Users\sanie\source\repos\DICTIONARY\DICTIONARY\obj\Debug\net9.0\DICTIONARY.dll
+C:\Users\sanie\source\repos\DICTIONARY\DICTIONARY\obj\Debug\net9.0\refint\DICTIONARY.dll
+C:\Users\sanie\source\repos\DICTIONARY\DICTIONARY\obj\Debug\net9.0\DICTIONARY.pdb
+C:\Users\sanie\source\repos\DICTIONARY\DICTIONARY\obj\Debug\net9.0\DICTIONARY.genruntimeconfig.cache
+C:\Users\sanie\source\repos\DICTIONARY\DICTIONARY\obj\Debug\net9.0\ref\DICTIONARY.dll

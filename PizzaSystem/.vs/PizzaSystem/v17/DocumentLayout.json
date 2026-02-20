@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|c:\\users\\sanie\\source\\repos\\pizzasystem\\pizzasystem\\menudialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|solutionrelative:pizzasystem\\menudialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|c:\\users\\sanie\\source\\repos\\pizzasystem\\pizzasystem\\pizzamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|solutionrelative:pizzasystem\\pizzamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|c:\\users\\sanie\\source\\repos\\pizzasystem\\pizzasystem\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|solutionrelative:pizzasystem\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|c:\\users\\sanie\\source\\repos\\pizzasystem\\pizzasystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|solutionrelative:pizzasystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|c:\\users\\sanie\\source\\repos\\pizzasystem\\pizzasystem\\butik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|solutionrelative:pizzasystem\\butik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|c:\\users\\sanie\\source\\repos\\pizzasystem\\pizzasystem\\bestiling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|solutionrelative:pizzasystem\\bestiling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|c:\\users\\sanie\\source\\repos\\pizzasystem\\pizzasystem\\kunderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|solutionrelative:pizzasystem\\kunderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|c:\\users\\sanie\\source\\repos\\pizzasystem\\pizzasystem\\kunder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|solutionrelative:pizzasystem\\kunder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|c:\\users\\sanie\\source\\repos\\pizzasystem\\pizzasystem\\bestillingslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6859B110-FAED-43BA-BBD1-12B4677505B4}|PizzaSystem\\PizzaSystem.csproj|solutionrelative:pizzasystem\\bestillingslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KunderList.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\KunderList.cs",
+              "RelativeDocumentMoniker": "PizzaSystem\\KunderList.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\KunderList.cs",
+              "RelativeToolTip": "PizzaSystem\\KunderList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:38:56.345Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bestiling.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\Bestiling.cs",
+              "RelativeDocumentMoniker": "PizzaSystem\\Bestiling.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\Bestiling.cs",
+              "RelativeToolTip": "PizzaSystem\\Bestiling.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:38:06.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Butik.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\Butik.cs",
+              "RelativeDocumentMoniker": "PizzaSystem\\Butik.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\Butik.cs",
+              "RelativeToolTip": "PizzaSystem\\Butik.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwHEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:37:51.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\Program.cs",
+              "RelativeToolTip": "PizzaSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:36:27.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaMenu.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\PizzaMenu.cs",
+              "RelativeDocumentMoniker": "PizzaSystem\\PizzaMenu.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\PizzaMenu.cs",
+              "RelativeToolTip": "PizzaSystem\\PizzaMenu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:38:28.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\Pizza.cs",
+              "RelativeDocumentMoniker": "PizzaSystem\\Pizza.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\Pizza.cs",
+              "RelativeToolTip": "PizzaSystem\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:37:17.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kunder.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\Kunder.cs",
+              "RelativeDocumentMoniker": "PizzaSystem\\Kunder.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\Kunder.cs",
+              "RelativeToolTip": "PizzaSystem\\Kunder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:37:34.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BestillingsList.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\BestillingsList.cs",
+              "RelativeDocumentMoniker": "PizzaSystem\\BestillingsList.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\BestillingsList.cs",
+              "RelativeToolTip": "PizzaSystem\\BestillingsList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:39:32.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuDialog.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\MenuDialog.cs",
+              "RelativeDocumentMoniker": "PizzaSystem\\MenuDialog.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\PizzaSystem\\PizzaSystem\\MenuDialog.cs",
+              "RelativeToolTip": "PizzaSystem\\MenuDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:40:20.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+﻿@page
+@model boatTest.Pages.Boats.CreateBoatsModel
+@{
+}
+
+<h1>Create a New Boat</h1>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">                                            @*  post tregon si dërgohen të dhënat.ekziston që veprimi real (Create/Edit/Delete) të dërgohet në server dhe të përpunohet nga OnPost(). *@
+            <div class="form-group">                                                                                             @*  të organizojë elementet e formularit *@
+                <label asp-for="Boat.BoatId">BoatId:</label>                                @*  label është teksti përshkrues për një fushë input. *@
+                <input asp-for="Boat.BoatId" class=" form-control bg-light" />                            @*  input është fusha ku përdoruesi shkruan ose zgjedh diçka.*@
+                <span asp-validation-for="Boat.BoatId" class="text-danger"></span>
+            </div>
+            <div class=" form-group">
+                <label asp-for="Boat.Name">Name:</label>
+                <input asp-for="Boat.Name" class="form-control bg-light" />
+                <span asp-validation-for="Boat.Name" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">                        @*  të organizojë elementet e formularit *@
+                <label asp-for="Boat.Type">Type:</label>                                @*  label është teksti përshkrues për një fushë input. *@
+                <input asp-for="Boat.Type" class=" form-control bg-light" />                            @*  input është fusha ku përdoruesi shkruan ose zgjedh diçka.*@
+                <span asp-validation-for="Boat.Type" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Boat.Year">Year:</label>
+                <input asp-for="Boat.Year" class="form-control bg-light" />  @*  form-control = stil standard për input-et e formave /// bg=bagrund*@
+                <span asp-validation-for="Boat.Year" class="text-danger"></span>
+    </div>
+
+            <div class="form-group">                         @*  të organizojë elementet e formularit *@
+                <label asp-for="Boat.Price">Price:</label>                                @*  label është teksti përshkrues për një fushë input. *@
+                <input asp-for="Boat.Price" class=" form-control bg-light" />                            @*  input është fusha ku përdoruesi shkruan ose zgjedh diçka.*@
+                <span asp-validation-for="Boat.Price" class="text-danger"></span>
+            </div>
+
+            <div class="row mt-3">
+                <div class="col-12 col-sm-6 mb-2">
+                    <button type="submit"  class="btn btn-primary w-100"> Create 
+                   </button>
+                </div>
+
+                <div class="col-12 col-sm-6 mb-2"> <a asp-page="/Boats/GetAllBoats" class="btn btn-warning w-100">   Back to List  </a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+        @*    asp=     Tag Helper	
+asp-for	lidh input me model =lidh html me c#
+asp-page	krijon link mes faqeve=navigim midis Razor Pages.
+asp-route-id= /EditBoat?id=5	dërgon parametra *@

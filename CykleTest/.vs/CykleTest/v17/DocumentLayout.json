@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\CykleTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBD7763-66B7-40D1-858B-AC2AC4B0D73D}|TestCykle\\TestCykle.csproj|c:\\users\\sanie\\source\\repos\\cykletest\\testcykle\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBD7763-66B7-40D1-858B-AC2AC4B0D73D}|TestCykle\\TestCykle.csproj|solutionrelative:testcykle\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64910393-BA77-4478-8A4C-B14B6CB9D20D}|CykleTest\\CykleTest.csproj|c:\\users\\sanie\\source\\repos\\cykletest\\cykletest\\cykle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64910393-BA77-4478-8A4C-B14B6CB9D20D}|CykleTest\\CykleTest.csproj|solutionrelative:cykletest\\cykle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64910393-BA77-4478-8A4C-B14B6CB9D20D}|CykleTest\\CykleTest.csproj|c:\\users\\sanie\\source\\repos\\cykletest\\cykletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64910393-BA77-4478-8A4C-B14B6CB9D20D}|CykleTest\\CykleTest.csproj|solutionrelative:cykletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\CykleTest\\TestCykle\\Test1.cs",
+              "RelativeDocumentMoniker": "TestCykle\\Test1.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\CykleTest\\TestCykle\\Test1.cs",
+              "RelativeToolTip": "TestCykle\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:15:24.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cykle.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\CykleTest\\CykleTest\\Cykle.cs",
+              "RelativeDocumentMoniker": "CykleTest\\Cykle.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\CykleTest\\CykleTest\\Cykle.cs",
+              "RelativeToolTip": "CykleTest\\Cykle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:09:00.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\CykleTest\\CykleTest\\Program.cs",
+              "RelativeDocumentMoniker": "CykleTest\\Program.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\CykleTest\\CykleTest\\Program.cs",
+              "RelativeToolTip": "CykleTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:08:37.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

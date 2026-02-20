@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\K\u00F8bCykle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC61F5-41C2-46A4-873C-847FC4082151}|K\u00F8bCykle\\K\u00F8bTel.csproj|c:\\users\\sanie\\source\\repos\\k\u00F8bcykle\\k\u00F8bcykle\\ordrer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFC61F5-41C2-46A4-873C-847FC4082151}|K\u00F8bCykle\\K\u00F8bTel.csproj|solutionrelative:k\u00F8bcykle\\ordrer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC61F5-41C2-46A4-873C-847FC4082151}|K\u00F8bCykle\\K\u00F8bTel.csproj|c:\\users\\sanie\\source\\repos\\k\u00F8bcykle\\k\u00F8bcykle\\tellist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFC61F5-41C2-46A4-873C-847FC4082151}|K\u00F8bCykle\\K\u00F8bTel.csproj|solutionrelative:k\u00F8bcykle\\tellist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC61F5-41C2-46A4-873C-847FC4082151}|K\u00F8bCykle\\K\u00F8bTel.csproj|c:\\users\\sanie\\source\\repos\\k\u00F8bcykle\\k\u00F8bcykle\\kunder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFC61F5-41C2-46A4-873C-847FC4082151}|K\u00F8bCykle\\K\u00F8bTel.csproj|solutionrelative:k\u00F8bcykle\\kunder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC61F5-41C2-46A4-873C-847FC4082151}|K\u00F8bCykle\\K\u00F8bTel.csproj|c:\\users\\sanie\\source\\repos\\k\u00F8bcykle\\k\u00F8bcykle\\tel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFC61F5-41C2-46A4-873C-847FC4082151}|K\u00F8bCykle\\K\u00F8bTel.csproj|solutionrelative:k\u00F8bcykle\\tel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC61F5-41C2-46A4-873C-847FC4082151}|K\u00F8bCykle\\K\u00F8bTel.csproj|c:\\users\\sanie\\source\\repos\\k\u00F8bcykle\\k\u00F8bcykle\\butik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFC61F5-41C2-46A4-873C-847FC4082151}|K\u00F8bCykle\\K\u00F8bTel.csproj|solutionrelative:k\u00F8bcykle\\butik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC61F5-41C2-46A4-873C-847FC4082151}|K\u00F8bCykle\\K\u00F8bTel.csproj|c:\\users\\sanie\\source\\repos\\k\u00F8bcykle\\k\u00F8bcykle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFC61F5-41C2-46A4-873C-847FC4082151}|K\u00F8bCykle\\K\u00F8bTel.csproj|solutionrelative:k\u00F8bcykle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ordrer.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\K\u00F8bCykle\\K\u00F8bCykle\\Ordrer.cs",
+              "RelativeDocumentMoniker": "K\u00F8bCykle\\Ordrer.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\K\u00F8bCykle\\K\u00F8bCykle\\Ordrer.cs",
+              "RelativeToolTip": "K\u00F8bCykle\\Ordrer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:58:16.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelList.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\K\u00F8bCykle\\K\u00F8bCykle\\TelList.cs",
+              "RelativeDocumentMoniker": "K\u00F8bCykle\\TelList.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\K\u00F8bCykle\\K\u00F8bCykle\\TelList.cs",
+              "RelativeToolTip": "K\u00F8bCykle\\TelList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:45:15.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kunder.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\K\u00F8bCykle\\K\u00F8bCykle\\Kunder.cs",
+              "RelativeDocumentMoniker": "K\u00F8bCykle\\Kunder.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\K\u00F8bCykle\\K\u00F8bCykle\\Kunder.cs",
+              "RelativeToolTip": "K\u00F8bCykle\\Kunder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:34:56.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tel.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\K\u00F8bCykle\\K\u00F8bCykle\\Tel.cs",
+              "RelativeDocumentMoniker": "K\u00F8bCykle\\Tel.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\K\u00F8bCykle\\K\u00F8bCykle\\Tel.cs",
+              "RelativeToolTip": "K\u00F8bCykle\\Tel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:34:18.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Butik.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\K\u00F8bCykle\\K\u00F8bCykle\\Butik.cs",
+              "RelativeDocumentMoniker": "K\u00F8bCykle\\Butik.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\K\u00F8bCykle\\K\u00F8bCykle\\Butik.cs",
+              "RelativeToolTip": "K\u00F8bCykle\\Butik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:34:10.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\K\u00F8bCykle\\K\u00F8bCykle\\Program.cs",
+              "RelativeDocumentMoniker": "K\u00F8bCykle\\Program.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\K\u00F8bCykle\\K\u00F8bCykle\\Program.cs",
+              "RelativeToolTip": "K\u00F8bCykle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:33:46.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|c:\\users\\sanie\\source\\repos\\classlibrary4\\classlibrary4\\rep\\bookingrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|solutionrelative:classlibrary4\\rep\\bookingrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|c:\\users\\sanie\\source\\repos\\classlibrary4\\classlibrary4\\vedligeholdelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|solutionrelative:classlibrary4\\vedligeholdelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|c:\\users\\sanie\\source\\repos\\classlibrary4\\classlibrary4\\sejlb\u00E5d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|solutionrelative:classlibrary4\\sejlb\u00E5d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|c:\\users\\sanie\\source\\repos\\classlibrary4\\classlibrary4\\motorb\u00E5d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|solutionrelative:classlibrary4\\motorb\u00E5d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|c:\\users\\sanie\\source\\repos\\classlibrary4\\classlibrary4\\medlem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|solutionrelative:classlibrary4\\medlem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|c:\\users\\sanie\\source\\repos\\classlibrary4\\classlibrary4\\ivalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|solutionrelative:classlibrary4\\ivalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|c:\\users\\sanie\\source\\repos\\classlibrary4\\classlibrary4\\b\u00E5d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|solutionrelative:classlibrary4\\b\u00E5d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|c:\\users\\sanie\\source\\repos\\classlibrary4\\classlibrary4\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|solutionrelative:classlibrary4\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|c:\\users\\sanie\\source\\repos\\classlibrary4\\classlibrary4\\begivenhed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|solutionrelative:classlibrary4\\begivenhed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|c:\\users\\sanie\\source\\repos\\classlibrary4\\classlibrary4\\rep\\begivenhedrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|solutionrelative:classlibrary4\\rep\\begivenhedrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|c:\\users\\sanie\\source\\repos\\classlibrary4\\classlibrary4\\rep\\vedligeholdelserep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|solutionrelative:classlibrary4\\rep\\vedligeholdelserep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|c:\\users\\sanie\\source\\repos\\classlibrary4\\classlibrary4\\rep\\medlemrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|solutionrelative:classlibrary4\\rep\\medlemrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|c:\\users\\sanie\\source\\repos\\classlibrary4\\classlibrary4\\rep\\b\u00E5drep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA7A80-8FE6-473C-8057-8E49F5DFDDFB}|ClassLibrary4\\ClassLibrary4.csproj|solutionrelative:classlibrary4\\rep\\b\u00E5drep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A82C4DF-E68B-4954-BEBE-D1F1E20AAEA2}|Sejl\\Sejl.csproj|c:\\users\\sanie\\source\\repos\\classlibrary4\\sejl\\sejlapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A82C4DF-E68B-4954-BEBE-D1F1E20AAEA2}|Sejl\\Sejl.csproj|solutionrelative:sejl\\sejlapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A82C4DF-E68B-4954-BEBE-D1F1E20AAEA2}|Sejl\\Sejl.csproj|c:\\users\\sanie\\source\\repos\\classlibrary4\\sejl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A82C4DF-E68B-4954-BEBE-D1F1E20AAEA2}|Sejl\\Sejl.csproj|solutionrelative:sejl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Booking.cs",
+              "RelativeDocumentMoniker": "ClassLibrary4\\Booking.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Booking.cs",
+              "RelativeToolTip": "ClassLibrary4\\Booking.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:58:18.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "B\u00E5d.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\B\u00E5d.cs",
+              "RelativeDocumentMoniker": "ClassLibrary4\\B\u00E5d.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\B\u00E5d.cs",
+              "RelativeToolTip": "ClassLibrary4\\B\u00E5d.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:56:04.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BegivenhedRep.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Rep\\BegivenhedRep.cs",
+              "RelativeDocumentMoniker": "ClassLibrary4\\Rep\\BegivenhedRep.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Rep\\BegivenhedRep.cs",
+              "RelativeToolTip": "ClassLibrary4\\Rep\\BegivenhedRep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:03:43.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Begivenhed.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Begivenhed.cs",
+              "RelativeDocumentMoniker": "ClassLibrary4\\Begivenhed.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Begivenhed.cs",
+              "RelativeToolTip": "ClassLibrary4\\Begivenhed.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:59:22.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IValidate.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\IValidate.cs",
+              "RelativeDocumentMoniker": "ClassLibrary4\\IValidate.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\IValidate.cs",
+              "RelativeToolTip": "ClassLibrary4\\IValidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:11:34.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Medlem.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Medlem.cs",
+              "RelativeDocumentMoniker": "ClassLibrary4\\Medlem.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Medlem.cs",
+              "RelativeToolTip": "ClassLibrary4\\Medlem.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvzkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:57:53.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MotorB\u00E5d.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\MotorB\u00E5d.cs",
+              "RelativeDocumentMoniker": "ClassLibrary4\\MotorB\u00E5d.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\MotorB\u00E5d.cs",
+              "RelativeToolTip": "ClassLibrary4\\MotorB\u00E5d.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:00:23.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SejlB\u00E5d.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\SejlB\u00E5d.cs",
+              "RelativeDocumentMoniker": "ClassLibrary4\\SejlB\u00E5d.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\SejlB\u00E5d.cs",
+              "RelativeToolTip": "ClassLibrary4\\SejlB\u00E5d.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:00:05.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vedligeholdelse.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Vedligeholdelse.cs",
+              "RelativeDocumentMoniker": "ClassLibrary4\\Vedligeholdelse.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Vedligeholdelse.cs",
+              "RelativeToolTip": "ClassLibrary4\\Vedligeholdelse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:58:58.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingRep.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Rep\\BookingRep.cs",
+              "RelativeDocumentMoniker": "ClassLibrary4\\Rep\\BookingRep.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Rep\\BookingRep.cs",
+              "RelativeToolTip": "ClassLibrary4\\Rep\\BookingRep.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:04:06.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VedligeholdelseRep.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Rep\\VedligeholdelseRep.cs",
+              "RelativeDocumentMoniker": "ClassLibrary4\\Rep\\VedligeholdelseRep.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Rep\\VedligeholdelseRep.cs",
+              "RelativeToolTip": "ClassLibrary4\\Rep\\VedligeholdelseRep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:02:41.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MedlemRep.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Rep\\MedlemRep.cs",
+              "RelativeDocumentMoniker": "ClassLibrary4\\Rep\\MedlemRep.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Rep\\MedlemRep.cs",
+              "RelativeToolTip": "ClassLibrary4\\Rep\\MedlemRep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:01:58.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "B\u00E5dRep.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Rep\\B\u00E5dRep.cs",
+              "RelativeDocumentMoniker": "ClassLibrary4\\Rep\\B\u00E5dRep.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\ClassLibrary4\\Rep\\B\u00E5dRep.cs",
+              "RelativeToolTip": "ClassLibrary4\\Rep\\B\u00E5dRep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:01:32.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SejlApp.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\Sejl\\SejlApp.cs",
+              "RelativeDocumentMoniker": "Sejl\\SejlApp.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\Sejl\\SejlApp.cs",
+              "RelativeToolTip": "Sejl\\SejlApp.cs",
+              "ViewState": "AgIAACMDAAAAAAAAAAAgwMEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:57:08.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\Sejl\\Program.cs",
+              "RelativeDocumentMoniker": "Sejl\\Program.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary4\\Sejl\\Program.cs",
+              "RelativeToolTip": "Sejl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:56:38.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

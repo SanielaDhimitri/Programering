@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|c:\\users\\sanie\\source\\repos\\webapplication3\\webapplication3\\pages\\members\\createmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\members\\createmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|c:\\users\\sanie\\source\\repos\\webapplication3\\webapplication3\\pages\\members\\createmembers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\members\\createmembers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|c:\\users\\sanie\\source\\repos\\webapplication3\\webapplication3\\pages\\boats\\createboats.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\boats\\createboats.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|c:\\users\\sanie\\source\\repos\\webapplication3\\webapplication3\\pages\\boats\\createboats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\boats\\createboats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|c:\\users\\sanie\\source\\repos\\webapplication3\\webapplication3\\pages\\boats\\getallboats.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\boats\\getallboats.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|c:\\users\\sanie\\source\\repos\\webapplication3\\webapplication3\\pages\\boats\\getallboats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\boats\\getallboats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|c:\\users\\sanie\\source\\repos\\webapplication3\\webapplication3\\pages\\members\\getallmembers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\members\\getallmembers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|c:\\users\\sanie\\source\\repos\\webapplication3\\webapplication3\\pages\\members\\getallmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\members\\getallmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|c:\\users\\sanie\\source\\repos\\webapplication3\\webapplication3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|c:\\users\\sanie\\source\\repos\\webapplication3\\webapplication3\\models\\repositories\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\repositories\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|c:\\users\\sanie\\source\\repos\\webapplication3\\webapplication3\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|c:\\users\\sanie\\source\\repos\\webapplication3\\webapplication3\\models\\repositories\\boatrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\repositories\\boatrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|c:\\users\\sanie\\source\\repos\\webapplication3\\webapplication3\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|c:\\users\\sanie\\source\\repos\\webapplication3\\webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD5C779F-2B36-49D8-8946-0C8060DFADC5}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateMembers.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Members\\CreateMembers.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Members\\CreateMembers.cshtml.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Members\\CreateMembers.cshtml.cs",
+              "RelativeToolTip": "WebApplication3\\Pages\\Members\\CreateMembers.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:53:28.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateMembers.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Members\\CreateMembers.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Members\\CreateMembers.cshtml",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Members\\CreateMembers.cshtml*",
+              "RelativeToolTip": "WebApplication3\\Pages\\Members\\CreateMembers.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T19:28:19.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateBoats.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Boats\\CreateBoats.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Boats\\CreateBoats.cshtml",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Boats\\CreateBoats.cshtml",
+              "RelativeToolTip": "WebApplication3\\Pages\\Boats\\CreateBoats.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T19:27:39.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Models\\Member.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:22:35.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MemberRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Models\\Repositories\\MemberRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Repositories\\MemberRepo.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Models\\Repositories\\MemberRepo.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Repositories\\MemberRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:23:08.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllBoats.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Boats\\GetAllBoats.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Boats\\GetAllBoats.cshtml",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Boats\\GetAllBoats.cshtml",
+              "RelativeToolTip": "WebApplication3\\Pages\\Boats\\GetAllBoats.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T19:25:56.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllBoats.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Boats\\GetAllBoats.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Boats\\GetAllBoats.cshtml.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Boats\\GetAllBoats.cshtml.cs",
+              "RelativeToolTip": "WebApplication3\\Pages\\Boats\\GetAllBoats.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:56:00.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateBoats.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Boats\\CreateBoats.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Boats\\CreateBoats.cshtml.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Boats\\CreateBoats.cshtml.cs",
+              "RelativeToolTip": "WebApplication3\\Pages\\Boats\\CreateBoats.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:40:22.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllMembers.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Members\\GetAllMembers.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Members\\GetAllMembers.cshtml.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Members\\GetAllMembers.cshtml.cs",
+              "RelativeToolTip": "WebApplication3\\Pages\\Members\\GetAllMembers.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:13:43.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllMembers.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Members\\GetAllMembers.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Members\\GetAllMembers.cshtml",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Members\\GetAllMembers.cshtml",
+              "RelativeToolTip": "WebApplication3\\Pages\\Members\\GetAllMembers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T19:28:02.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T20:32:55.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BoatRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Models\\Repositories\\BoatRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Repositories\\BoatRepo.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Models\\Repositories\\BoatRepo.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Repositories\\BoatRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:22:54.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Boat.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Models\\Boat.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Boat.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\Models\\Boat.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Boat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:22:20.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebApplication3",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.csproj",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeToolTip": "WebApplication3\\WebApplication3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-31T19:20:46.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

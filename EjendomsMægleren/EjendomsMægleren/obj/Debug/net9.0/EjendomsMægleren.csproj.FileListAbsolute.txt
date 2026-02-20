@@ -1,0 +1,14 @@
+C:\Users\sanie\source\repos\EjendomsMægleren\EjendomsMægleren\bin\Debug\net9.0\EjendomsMægleren.exe
+C:\Users\sanie\source\repos\EjendomsMægleren\EjendomsMægleren\bin\Debug\net9.0\EjendomsMægleren.deps.json
+C:\Users\sanie\source\repos\EjendomsMægleren\EjendomsMægleren\bin\Debug\net9.0\EjendomsMægleren.runtimeconfig.json
+C:\Users\sanie\source\repos\EjendomsMægleren\EjendomsMægleren\bin\Debug\net9.0\EjendomsMægleren.dll
+C:\Users\sanie\source\repos\EjendomsMægleren\EjendomsMægleren\bin\Debug\net9.0\EjendomsMægleren.pdb
+C:\Users\sanie\source\repos\EjendomsMægleren\EjendomsMægleren\obj\Debug\net9.0\EjendomsMægleren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanie\source\repos\EjendomsMægleren\EjendomsMægleren\obj\Debug\net9.0\EjendomsMægleren.AssemblyInfoInputs.cache
+C:\Users\sanie\source\repos\EjendomsMægleren\EjendomsMægleren\obj\Debug\net9.0\EjendomsMægleren.AssemblyInfo.cs
+C:\Users\sanie\source\repos\EjendomsMægleren\EjendomsMægleren\obj\Debug\net9.0\EjendomsMægleren.csproj.CoreCompileInputs.cache
+C:\Users\sanie\source\repos\EjendomsMægleren\EjendomsMægleren\obj\Debug\net9.0\EjendomsMægleren.dll
+C:\Users\sanie\source\repos\EjendomsMægleren\EjendomsMægleren\obj\Debug\net9.0\refint\EjendomsMægleren.dll
+C:\Users\sanie\source\repos\EjendomsMægleren\EjendomsMægleren\obj\Debug\net9.0\EjendomsMægleren.pdb
+C:\Users\sanie\source\repos\EjendomsMægleren\EjendomsMægleren\obj\Debug\net9.0\EjendomsMægleren.genruntimeconfig.cache
+C:\Users\sanie\source\repos\EjendomsMægleren\EjendomsMægleren\obj\Debug\net9.0\ref\EjendomsMægleren.dll

@@ -1,0 +1,51 @@
+﻿@page
+@model WebApplication2.Pages.ContactModel
+@{
+}
+<div class="container mt-4 pb-5 bg-dark-subtle border-4 border-5 border-dark-subtle border">
+<h1 class="text-center my-4">Contact </h1>
+
+<div class="row">
+    <div class="col-md-6 mx-auto">
+        <form method="post">   @* formulari dergon te dhena te serveri ku shtyp buttonin *@
+            @*  post tregon si dërgohen të dhënat.ekziston që veprimi real (Create/Edit/Delete) të dërgohet në server dhe të përpunohet nga OnPost(). *@
+            <div class="form-group">
+                @*  të organizojë elementet e formularit *@
+                <label asp-for="Contact.Name">Name:</label>                                @*  label është teksti përshkrues për një fushë input. *@
+                <input asp-for="Contact.Name" class=" form-control bg-light" />                            @*  input është fusha ku përdoruesi shkruan ose zgjedh diçka.*@
+            </div>
+            
+            <div class="form-group">
+                <label asp-for="Contact.Adresse">Adresse:</label>
+                <input asp-for="Contact.Adresse" class="form-control bg-light" />  @*  form-control = stil standard për input-et e formave /// bg=bagrund*@
+            </div>
+            <div class="form-group">
+                <label asp-for="Contact.Email">Email:</label>
+                <input asp-for="Contact.Email" class="form-control bg-light" />  @*  form-control = stil standard për input-et e formave /// bg=bagrund*@
+            </div>
+            <div class="form-group">
+                <label asp-for="Contact.Phone">Phone:</label>
+                <input asp-for="Contact.Phone" class="form-control bg-light" />  @*  form-control = stil standard për input-et e formave /// bg=bagrund*@
+            </div>
+
+            <div class="row mt-4">
+                <div class="col-12 col-sm-6 mb-4">
+                    <button type="submit"
+                            class="btn btn-outline-success w-100">
+                        Send
+                    </button>
+                </div>
+
+                <div class="col-12 col-sm-6 mb-4">
+                    <button type="submit"
+                            class="btn btn-outline-danger  w-100">
+                       Cancel
+                    </button>
+                </div>
+            </div>
+            <div>
+            </div>
+        </form>
+    </div>
+</div>
+</div>  

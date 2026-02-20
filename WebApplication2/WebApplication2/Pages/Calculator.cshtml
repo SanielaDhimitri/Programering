@@ -1,0 +1,130 @@
+﻿@page
+@model WebApplication2.Pages.CalculatorModel
+@{
+}
+
+
+
+<div class="container bg-body-tertiary pb-5">
+
+<h2 class="text-center mt-5 py-2">Calculator</h2>
+
+<div class="col-md-6 mx-auto">
+      
+
+            <!-- Operator buttons -->
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+
+                <div class="row text-center g-3 py-5">
+
+            <div class="col-3 ">
+                <button class="btn btn-outline-info btn-md w-100" data-value="1">1</button>
+            </div>
+            <div class="col-3">
+                <button class="btn btn-outline-info btn-md w-100" data-value="2">2</button>
+            </div>
+            <div class="col-3">
+                <button class="btn btn-outline-info btn-md w-100" data-value="3">3</button>
+            </div>
+            <div class="col-3">
+                <button class="btn btn-outline-info btn-md w-100" data-value ="4">4</button>
+            </div>
+            <div class="col-3">
+                <button class="btn btn-outline-info btn-md w-100" data-value="5">5</button>
+            </div>
+            <div class="col-3">
+                <button class="btn btn-outline-info btn-md w-100" data-value="6">6</button>
+            </div>
+            <div class="col-3">
+                <button class="btn btn-outline-info btn-md w-100" data-value="7">7</button>
+            </div>
+            <div class="col-3">
+                <button class="btn btn-outline-info btn-md w-100" data-value="8">8</button>
+            </div>
+            <div class="col-3">
+                <button class="btn btn-outline-info btn-md w-100" data-value="9">9</button>
+            </div>
+                    <div class="col-3">
+                        <button class="btn btn-outline-info btn-md w-100" data-value="0">0</button>
+                    </div>
+
+                <div class="col-3">
+                <button class="btn btn-outline-info btn-md w-100" data-value="*">*</button>
+                </div>
+               
+                
+                <div class="col-3">
+                <button class="btn btn-outline-info btn-md w-100"data-value="/">&divide;</button>
+                </div>
+             
+                <div class="col-3 ">
+                <button class="btn btn-outline-info btn-md w-100" data-value="-">-</button>
+                </div>
+            <div class="col-3">
+                <button class="btn btn-outline-info btn-md  w-100"data-value="+">+</button>
+            </div>
+            <div class="col-3">
+                <button class="btn btn-outline-info btn-md  w-100" data-value="=">=</button>
+            </div>
+                    <div class="col-3">
+                        <button class="btn btn-outline-info btn-md w-100" data-value="AC">AC</button>
+                    </div>
+            </div>
+            </div>
+
+
+
+    <div class="col-10 mx-auto text-center">
+        <button class="btn btn-outline-info  w-100">Result</button>
+    </div>
+
+    </div>
+
+
+
+    </div>
+    </div>
+  
+
+
+
+
+
+
+
+
+@* 
+            <!-- Result button -->
+   @*  <div id="display"
+         class="border rounded p-3 mb-3 text-end fs-4 bg-white"  @* p=pading tabindex=" , fs=front sizer=shkronja 1(me e madhja)--6(me e vogla)" *@
+    @*   style="min-height:60px; font-family: monospace;"> *@      @* font-family: monospace;== çdo shkronjë 1,2,3 dhe numër +,-,* ka të njëjtën gjerësi.” *@
+@*0*@                                                           @*  0=FILLIM *@
+   @*</div>    *@                                                 @*  min-height: 60px;= ==EKRANI NUK ZVOGELOHET AS ME 0 
+
+        </div>
+   
+ *@
+ 
+
+@*          .row → përdor g-*
+flex / grid → përdor gap-* *@
+
+
+@* <div class="d-flex justify-content-center align-items-center gap-3">
+    <div>Kutia 1</div>
+    <div>Kutia 2</div>
+    <div>Kutia 3</div>
+</div> *@
+@* 
+
+
+| Klasa                     | Çfarë bën                 |
+| ------------------------- | ------------------------- |
+| `justify-content-start`   | majtas (default)          |
+| `justify-content-center`  | në mes                    |
+| `justify-content-end`     | djathtas                  |
+| `justify-content-between` | hapësirë mes elementëve   |
+| `justify-content-around`  | hapësirë rreth elementëve |
+| `justify-content-evenly`  | hapësira të barabarta     |
+ *@

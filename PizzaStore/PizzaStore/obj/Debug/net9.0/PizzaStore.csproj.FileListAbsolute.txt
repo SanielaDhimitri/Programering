@@ -1,0 +1,14 @@
+C:\Users\sanie\source\repos\PizzaStore\PizzaStore\bin\Debug\net9.0\PizzaStore.exe
+C:\Users\sanie\source\repos\PizzaStore\PizzaStore\bin\Debug\net9.0\PizzaStore.deps.json
+C:\Users\sanie\source\repos\PizzaStore\PizzaStore\bin\Debug\net9.0\PizzaStore.runtimeconfig.json
+C:\Users\sanie\source\repos\PizzaStore\PizzaStore\bin\Debug\net9.0\PizzaStore.dll
+C:\Users\sanie\source\repos\PizzaStore\PizzaStore\bin\Debug\net9.0\PizzaStore.pdb
+C:\Users\sanie\source\repos\PizzaStore\PizzaStore\obj\Debug\net9.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanie\source\repos\PizzaStore\PizzaStore\obj\Debug\net9.0\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\sanie\source\repos\PizzaStore\PizzaStore\obj\Debug\net9.0\PizzaStore.AssemblyInfo.cs
+C:\Users\sanie\source\repos\PizzaStore\PizzaStore\obj\Debug\net9.0\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\sanie\source\repos\PizzaStore\PizzaStore\obj\Debug\net9.0\PizzaStore.dll
+C:\Users\sanie\source\repos\PizzaStore\PizzaStore\obj\Debug\net9.0\refint\PizzaStore.dll
+C:\Users\sanie\source\repos\PizzaStore\PizzaStore\obj\Debug\net9.0\PizzaStore.pdb
+C:\Users\sanie\source\repos\PizzaStore\PizzaStore\obj\Debug\net9.0\PizzaStore.genruntimeconfig.cache
+C:\Users\sanie\source\repos\PizzaStore\PizzaStore\obj\Debug\net9.0\ref\PizzaStore.dll

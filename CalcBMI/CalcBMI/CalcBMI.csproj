@@ -1,0 +1,19 @@
+﻿
+public class BMI
+{
+public double Weight { get; set; }
+public double Height { get; set; }
+
+public BMI()
+{
+Weight = 80.0;
+Height = 180.0;
+}
+
+public BMI(double weight, double height)// construction med parametre der kan initialisere W og H
+{
+Weight = weight;
+Height = height;
+}
+
+}

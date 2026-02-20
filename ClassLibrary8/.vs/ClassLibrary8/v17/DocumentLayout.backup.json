@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanie\\source\\repos\\ClassLibrary8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2406890D-8D9E-4959-A11E-3C35E0648B28}|ClassLibrary8\\ClassLibrary8.csproj|c:\\users\\sanie\\source\\repos\\classlibrary8\\classlibrary8\\repo\\b\u00E5drepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2406890D-8D9E-4959-A11E-3C35E0648B28}|ClassLibrary8\\ClassLibrary8.csproj|solutionrelative:classlibrary8\\repo\\b\u00E5drepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2C96CE-43C5-4950-8E86-F8634D5A9930}|Project 2\\Project 2.csproj|c:\\users\\sanie\\source\\repos\\classlibrary8\\project 2\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2C96CE-43C5-4950-8E86-F8634D5A9930}|Project 2\\Project 2.csproj|solutionrelative:project 2\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2C96CE-43C5-4950-8E86-F8634D5A9930}|Project 2\\Project 2.csproj|c:\\users\\sanie\\source\\repos\\classlibrary8\\project 2\\prog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2C96CE-43C5-4950-8E86-F8634D5A9930}|Project 2\\Project 2.csproj|solutionrelative:project 2\\prog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2C96CE-43C5-4950-8E86-F8634D5A9930}|Project 2\\Project 2.csproj|c:\\users\\sanie\\source\\repos\\classlibrary8\\project 2\\project 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC2C96CE-43C5-4950-8E86-F8634D5A9930}|Project 2\\Project 2.csproj|solutionrelative:project 2\\project 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2406890D-8D9E-4959-A11E-3C35E0648B28}|ClassLibrary8\\ClassLibrary8.csproj|c:\\users\\sanie\\source\\repos\\classlibrary8\\classlibrary8\\b\u00E5d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2406890D-8D9E-4959-A11E-3C35E0648B28}|ClassLibrary8\\ClassLibrary8.csproj|solutionrelative:classlibrary8\\b\u00E5d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2406890D-8D9E-4959-A11E-3C35E0648B28}|ClassLibrary8\\ClassLibrary8.csproj|c:\\users\\sanie\\source\\repos\\classlibrary8\\classlibrary8\\classlibrary8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2406890D-8D9E-4959-A11E-3C35E0648B28}|ClassLibrary8\\ClassLibrary8.csproj|solutionrelative:classlibrary8\\classlibrary8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "B\u00E5d.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary8\\ClassLibrary8\\B\u00E5d.cs",
+              "RelativeDocumentMoniker": "ClassLibrary8\\B\u00E5d.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary8\\ClassLibrary8\\B\u00E5d.cs",
+              "RelativeToolTip": "ClassLibrary8\\B\u00E5d.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:15:11.081Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prog.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary8\\Project 2\\Prog.cs",
+              "RelativeDocumentMoniker": "Project 2\\Prog.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary8\\Project 2\\Prog.cs",
+              "RelativeToolTip": "Project 2\\Prog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:21:21.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B\u00E5dRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary8\\ClassLibrary8\\Repo\\B\u00E5dRepo.cs",
+              "RelativeDocumentMoniker": "ClassLibrary8\\Repo\\B\u00E5dRepo.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary8\\ClassLibrary8\\Repo\\B\u00E5dRepo.cs",
+              "RelativeToolTip": "ClassLibrary8\\Repo\\B\u00E5dRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:19:05.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APP.cs",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary8\\Project 2\\APP.cs",
+              "RelativeDocumentMoniker": "Project 2\\APP.cs",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary8\\Project 2\\APP.cs",
+              "RelativeToolTip": "Project 2\\APP.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:22:12.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project 2.csproj",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary8\\Project 2\\Project 2.csproj",
+              "RelativeDocumentMoniker": "Project 2\\Project 2.csproj",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary8\\Project 2\\Project 2.csproj",
+              "RelativeToolTip": "Project 2\\Project 2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-28T14:30:10.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassLibrary8.csproj",
+              "DocumentMoniker": "C:\\Users\\sanie\\source\\repos\\ClassLibrary8\\ClassLibrary8\\ClassLibrary8.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary8\\ClassLibrary8.csproj",
+              "ToolTip": "C:\\Users\\sanie\\source\\repos\\ClassLibrary8\\ClassLibrary8\\ClassLibrary8.csproj",
+              "RelativeToolTip": "ClassLibrary8\\ClassLibrary8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-28T14:18:10.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
